@@ -1,0 +1,25 @@
+{
+  "name": "cervo",
+  "version": "0.0.0",
+  "description": "Automatically generated RPC server for C functions to do CPU-intensive work in (out of) Node.",
+  "main": "lib/cervo.js",
+  "scripts": {
+    "test": "nodeunit test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dfellis/cervo"
+  },
+  "keywords": [
+    "c",
+    "rpc",
+    "native",
+    "cpu",
+    "bound"
+  ],
+  "author": "David Ellis <d.f.ellis@ieee.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dfellis/cervo/issues"
+  }
+}
